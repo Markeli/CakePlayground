@@ -1,8 +1,10 @@
 # CakePlayground
 
-Experiments with Cake build system: automate build, test and pushing .net core libs to nuget.org using TravisCI, AppVeyor
+Experiments with [Cake](https://cakebuild.net/) build system: automate build, test and pushing `.net core` libs to `nuget.org` using `TravisCI`, `AppVeyor`
 
 # Goals
+
+Detailed information about each goal you can find in [read the docs](https://cakeplayground.readthedocs.io/en/latest/). 
 
 - [ ] Automate build 
 - [ ] Running unit tests
@@ -14,3 +16,4 @@ Experiments with Cake build system: automate build, test and pushing .net core l
 - [ ] Building nupkg files
 - [ ] Pushing to nuget.org
 - [ ] Release on Github/Gitlab 
+
